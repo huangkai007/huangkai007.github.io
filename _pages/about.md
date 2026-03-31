@@ -19,7 +19,7 @@ Research Interests
 
 Education
 ------
-- **Tianjin Agricultural University** (2020-2024)
+- **Tianjin Agricultural University** (2022-2026)
   - Data Science and Big Data Technology
   - School of Computer Science
   - Fourth Year Undergraduate
