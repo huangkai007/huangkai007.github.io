@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/微信图片_202.jpg" 
+  avatar           : "../images/profile2.png" 
   name             : "Kai Huang"
   pronouns         : "He"# example: "she/her"  
   bio              : "Interest in CV,Object Detection,Object track"
